@@ -23,7 +23,7 @@ First Dataset:
 
 3) freezing first layers of the VGG16 and training the classifier on the images. 
 
-4) data augmentation and fine tuning to get better results.
+4) data augmentation, unfreezing and fine tune to get better results.
 
 Second Dataset:
 
