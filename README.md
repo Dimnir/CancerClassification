@@ -36,7 +36,7 @@ Second Dataset:
 
 Final result:
 - multi-class visualization when each predicted class gets its own color
-- heatmap of the probability of cancer
+- heatmap of the probability of cancer (1 - high probability , 0 - low probability)
 
 ---
 ![results image](/images/RESULTS.png)
