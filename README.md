@@ -1,5 +1,4 @@
-### Overview:
-#### Colorectal Cancer Classification
+## Colorectal Cancer Classification
 
 __Projects Goal:__ Classification of colorectal cancer histology. <br />
 
@@ -7,7 +6,6 @@ __Environment:__ Jupyter Notebook, Python <br />
 
 
 ### General info:
-<br />
 In this project I built a model which classifies different human colorectal cancer tissues into 8 classes. <br />
 
 #### Datasets:
@@ -40,3 +38,9 @@ Final result is:
 
 - multi-class visualization when each predicted class gets its own color
 - heatmap of the probability of cancer
+
+---
+![results image](/images/RESULTS.png)
+---
+
+more info and code can be found in the notebook - [`CancerClassification.ipynb`](/CancerClassification.ipynb)
