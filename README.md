@@ -27,15 +27,14 @@ First Dataset:
 
 Second Dataset:
 
-5) cropping the large (5,000x5,000) images to 150x150 windows to fit models input
+5) cropping the large (5,000x5,000) images into 150x150 windows to make it fit the models input
 
-6) predicting the class of each cropped window and combining the windows back to 5000x5000 image
+6) predicting the class of each cropped window and combining the windows back to 5000x5000 image for each image from second dataset
 
 
 #### Results:
 
-Final result is:
-
+Final result:
 - multi-class visualization when each predicted class gets its own color
 - heatmap of the probability of cancer
 
