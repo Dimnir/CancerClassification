@@ -6,12 +6,12 @@ __Environment:__ Jupyter Notebook, Google Colab, Python <br />
 
 
 ### General info:
-In this project I built a model which classifies different human colorectal cancer tissues into 8 classes. <br />
+Building a model which classifies human colorectal cancer tissues into 8 different classes. <br />
 
 #### Datasets:
 
-1) colorectal_histology - 5,000 150x150 images of human tissues with different textures from 8 classes with labels.
-2) colorectal_histology_large - 10 5000x5000 images of human tissues without labels.
+1) `colorectal_histology` - 5,000 150x150 images of human tissues with different textures from 8 classes with labels.
+2) `colorectal_histology_large` - 10 5000x5000 images of human tissues without labels.
 
 #### Main Steps:
 
