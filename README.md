@@ -2,7 +2,7 @@
 
 __Projects Goal:__ Classification of colorectal cancer histology. <br />
 
-__Environment:__ Jupyter Notebook, Python <br />
+__Environment:__ Jupyter Notebook, Google Colab, Python <br />
 
 
 ### General info:
