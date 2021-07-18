@@ -19,7 +19,7 @@ First Dataset:
 
 1) seperating images from the first dataset into 90% train and 10% test
 
-2) using a VGG16 model with a custom classifier to fit images from first dataset. 
+2) using a VGG16 model with a custom classifier on top to fit images from first dataset. 
 
 3) freezing first layers of the VGG16 and training the classifier on the images. 
 
